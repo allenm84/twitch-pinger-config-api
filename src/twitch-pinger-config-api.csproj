@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <OutDir>$(ProjectDir)bin</OutDir>
+    <OutDir>$(ProjectDir)..\bin</OutDir>
   </PropertyGroup>
 
   <ItemGroup>
